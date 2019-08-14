@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+    <name>TestFreaks_AggregatedReviews</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>no license required</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Aggregated expert and consumer product reviews.</summary>
+    <description>The Aggregated Reviews extension allows website managers to instantly display millions of product reviews that are matched to their product catalog. Users can read expert and user reviews from over 15,000 sources.&#xD;
+&#xD;
+This extension uses two lines of javascript which the website manager will paste in according to the documentation.&#xD;
+&#xD;
+ </description>
+    <notes>Release 1 is stable and is used in over 200 sites around the world. It contains an overlay with one tab for expert reviews and one tab for consumer reviews. It also optionally will have a tab for consumers to write their own reviews.&#xD;
+&#xD;
+</notes>
+    <authors><author><name>TestFreaks</name><user>TestFreaks</user><email>info@testfreaks.com</email></author></authors>
+    <date>2013-09-18</date>
+    <time>12:44:14</time>
+    <contents><target name="magelocal"><dir/></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

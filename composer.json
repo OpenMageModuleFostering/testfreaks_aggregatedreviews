@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/TestFreaks_AggregatedReviews",
+    "type": "magento-module",
+    "license": "no-license-required",
+    "homepage": "",
+    "description": "Aggregated expert and consumer product reviews.",
+    "authors": [
+    {
+        "name": "TestFreaks",
+        "email": "info@testfreaks.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
